@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap');
+
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  font-family:"Plus Jakarta Sans", 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif 
+}
+
+div {
+  font-size: 20px;
+  font-family: "Plus Jakarta Sans";
+  color: whitesmoke;
+}
+
+.botaoNav {
+  font-size: 20px;
+  font-family: "Plus Jakarta Sans";
+  color: whitesmoke;
+  border: transparent;
+  background: none;
+  transition: all 0.3s ease-out;
+}
+
+.botaoNav:hover {
+  font-size: 20px;
+  font-family: "Plus Jakarta Sans";
+  color: rgb(233, 138, 138);
+  border: transparent;
+  background: none;
+  cursor: pointer;
+}
+
+.botaoNav:focus {
+  font-size: 20px;
+  font-family: "Plus Jakarta Sans";
+  color: rgb(219, 73, 73);
+  border: transparent;
+  background: none;
+}
+
+
+
